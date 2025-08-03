@@ -2,7 +2,7 @@
 
 这是一个配速计算程序，可以根据您输入的比赛成绩，计算出其他距离的预测用时以及适合您日常训练的最佳配速。
 
-![计算器预览](https://imgur.com/a/FIuPRxY)
+![计算器预览](https://imgur.com/gallery/run-FIuPRxY)
 
 
 ## 简介
