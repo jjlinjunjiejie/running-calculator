@@ -1,6 +1,7 @@
 # 跑步配速计算器 (VDOT Running Calculator)
 
 这是一个配速计算程序，可以根据您输入的比赛成绩，计算出其他距离的预测用时以及适合您日常训练的最佳配速。
+https://jjlinjunjiejie.github.io/running-calculator/
 
 ![计算器预览](https://imgur.com/gallery/run-FIuPRxY)
 
@@ -9,7 +10,6 @@
 
 本计算器基于著名跑步教练杰克·丹尼尔斯（Jack Daniels）提出的**VDOT**理论。VDOT是衡量您当前跑步能力水平的一个分数，通过它，您可以制定出有科学依据且高效的训练计划。
 
-https://jjlinjunjiejie.github.io/running-calculator/
 
 ## 主要功能
 
